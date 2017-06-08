@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>kodi-nightly-x64</id>
+    <version>2017.06.07</version>
+    <title>kodi-nightly-x64</title>
+    <authors>XBMC Foundation</authors>
+    <owners>XBMC Foundation</owners>
+    <licenseUrl>http://kodi.wiki/view/Official_Kodi_Wiki:General_disclaimer</licenseUrl>
+    <projectUrl>https://kodi.tv/</projectUrl>    
+    <iconUrl>https://kodi.tv/sites/default/themes/kodi/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>    
+    <description>This packages provides the latest win32 stable build</description>
+	<tags>kodi lav emby</tags>
+    <summary>Kodi is a free and open-source media player software application developed by the XBMC/Kodi Foundation</summary>   
+  </metadata>
+    <files>
+        <file src="tools\**" target="tools" />
+    </files>    
+</package>
+
+
+
