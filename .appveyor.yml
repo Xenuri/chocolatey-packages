@@ -21,7 +21,7 @@ environment:
   # Github token to commit pushed packages to repository
   github_user_repo: Xenuri/chocolatey-packages
   github_api_key:
-    secure: GrcFLJLdSXJAmb4xm9gzKmXIyCIubflPEerx8nO6i88Cgp5inKq+Dvnl85m9kDGf
+    secure: IJgHoAUVTxW5/IserKpebzFNCexE/XpbF7OpNKnfvBz9qmYTOKrR2mK071qZAj2y
 
 
   # Mail credentials - for error notifications
@@ -38,11 +38,11 @@ environment:
   gist_id: 939bbfe393295a0ac1b89001d82a8868
 
   # Force test: gist id for test results
-  gist_id_test:  939bbfe393295a0ac1b89001d82a8868
+  gist_id_test: 75be006bba1ce66df45c7ce8f3cb9a0b
 
   # Chocolatey API key - to push updated packages
   api_key:
-    secure: QgbtZ0D5n/LvC+usVGD0DJb/i4VTd9lS+m8nweg1a5mwkKg7rI29a1S70r60CFMX
+    secure: O5ItCuWBg4mTXRZKYh2gKA1XDn8iz4UrGG2LPOvt3HiDcPP/4DBdvDOdXXgzmxGf
 
 init:
 - git config --global user.email "chocolatey@realdimensions.net"
