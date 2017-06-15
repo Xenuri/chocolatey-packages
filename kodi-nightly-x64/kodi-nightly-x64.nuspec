@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>kodi-nightly-x64</id>
-    <version>2017.06.13</version>
+    <version>2017.06.15</version>
     <title>kodi-nightly-x64</title>
     <authors>XBMC Foundation</authors>
     <owners>XBMC Foundation</owners>
